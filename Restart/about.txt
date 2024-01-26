@@ -1,0 +1,13 @@
+baseado no loliness
+
+
+background- contrario de loliness(preto para branco)
+a pessoa entra num grupo, se molda a ele, e quando encontra
+outra pessoa se molda novamente (troca de personalidade)
+
+
+*Mecânicas*
+o grupo npc 'segue' o pc
+**
+
+'Você está finalizando ou remoçando?'   
